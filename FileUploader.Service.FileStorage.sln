@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUploader.Service.FileStorage", "FileUploader.Service.FileStorage\FileUploader.Service.FileStorage.csproj", "{16A9FFCE-C54A-4394-96D4-D31536536560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A9FFCE-C54A-4394-96D4-D31536536560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A9FFCE-C54A-4394-96D4-D31536536560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A9FFCE-C54A-4394-96D4-D31536536560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A9FFCE-C54A-4394-96D4-D31536536560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94E2F064-00BC-47A4-8BEB-43512028D24B}
+	EndGlobalSection
+EndGlobal
