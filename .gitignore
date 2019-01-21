@@ -291,3 +291,4 @@ temp/
 latest/
 
 .kube
+*.Development.json
